@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 
-namespace AlphaZulu.FoxtrotUniform.Web
+namespace AlphaZulu.FoxtrotUniform.Func
 {
   public static class MyFunction
   {

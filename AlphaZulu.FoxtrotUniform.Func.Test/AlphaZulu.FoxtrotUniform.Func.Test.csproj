@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AlphaZulu.FoxtrotUniform.Web\AlphaZulu.FoxtrotUniform.Web.csproj" />
+    <ProjectReference Include="..\AlphaZulu.FoxtrotUniform.Func\AlphaZulu.FoxtrotUniform.Func.csproj" />
   </ItemGroup>
 
 </Project>

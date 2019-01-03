@@ -1,4 +1,4 @@
-using AlphaZulu.FoxtrotUniform.Web.Test.Internal;
+using AlphaZulu.FoxtrotUniform.Func.Test.Internal;
 using System;
 using System.Diagnostics;
 using System.Net;
@@ -8,7 +8,7 @@ using System.Web.Http;
 using System.Web.Http.Hosting;
 using Xunit;
 
-namespace AlphaZulu.FoxtrotUniform.Web.Test
+namespace AlphaZulu.FoxtrotUniform.Func.Test
 {
   public class MyFunctionTest
   {

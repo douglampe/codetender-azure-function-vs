@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace AlphaZulu.FoxtrotUniform.Web.Test.Internal
+namespace AlphaZulu.FoxtrotUniform.Func.Test.Internal
 {
   public class TestTraceWriter : TraceWriter
   {
