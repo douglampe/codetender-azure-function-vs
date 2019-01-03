@@ -1,0 +1,28 @@
+{
+  "tokens": [
+    {
+      "pattern": "AlphaZulu",
+      "prompt": "First part of namespace (ex: MyCompany):"
+    },
+    {
+      "pattern": "FoxtrotUniform",
+      "prompt": "Second part of namespace (ex: MyProject):"
+    },
+    {
+      "pattern": "MyClass",
+      "prompt": "Class name (ex: MyRepository):"
+    },
+    {
+      "pattern": "MyMethod",
+      "prompt": "Method name (ex: GetResult):"
+    },
+    {
+      "pattern": "MyFunction",
+      "prompt": "Function name (ex: MyFunction):"
+    },
+    {
+      "pattern": "myroute",
+      "prompt": "Function route (ex: myroute):"
+    }
+  ]
+}
